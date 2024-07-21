@@ -10,6 +10,4 @@
 
 ## Linter, Formatter
 
-- linter, formatter
-  - ruff
-  - mypy
+- ruff
